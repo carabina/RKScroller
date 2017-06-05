@@ -1,0 +1,16 @@
+PODS:
+  - RKScroller (0.1.0)
+
+DEPENDENCIES:
+  - RKScroller (from `../`)
+
+EXTERNAL SOURCES:
+  RKScroller:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RKScroller: 03699a7682b05f3f9d9c6b352eb389527ebf43e8
+
+PODFILE CHECKSUM: d737b010f000ee65fcf6aea1d3a69c41062924db
+
+COCOAPODS: 1.2.1

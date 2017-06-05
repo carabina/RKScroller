@@ -1,0 +1,22 @@
+{
+  "name": "RKScroller",
+  "version": "0.1.0",
+  "summary": "A short description of RKScroller.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tahseen0amin@gmail.com/RKScroller",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tahseen0amin@gmail.com": "tahseen0amin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tahseen0amin@gmail.com/RKScroller.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RKScroller/Classes/**/*"
+}

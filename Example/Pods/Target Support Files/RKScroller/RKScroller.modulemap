@@ -1,0 +1,6 @@
+framework module RKScroller {
+  umbrella header "RKScroller-umbrella.h"
+
+  export *
+  module * { export * }
+}
