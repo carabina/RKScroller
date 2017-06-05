@@ -22,7 +22,7 @@ pod "RKScroller"
 
 ## Author
 
-tahseen0amin@gmail.com, tahseen0amin@gmail.com
+Ramesh Kumar
 
 ## License
 
